@@ -1,0 +1,3 @@
+  const name = "admin"; //req.body.name'';
+  const passe = "admin123"; //req.body.passe;
+  const email = "admin@elmida.com"; //req.body.email;
